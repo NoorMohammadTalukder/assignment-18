@@ -1,0 +1,3 @@
+Frontend:https://github.com/NoorMohammadTalukder/XeX-Blog/tree/main/client-side
+Backend:https://github.com/NoorMohammadTalukder/XeX-Blog/tree/main/server-side
+Live site:https://xex-46v2.onrender.com/
